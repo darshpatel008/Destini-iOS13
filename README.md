@@ -22,3 +22,4 @@ Run the app to experience dynamic storytelling.
 
 Destini showcases how to build multi-path applications using conditional logic, ideal for developers interested in interactive narratives or game development.
 
+https://github.com/user-attachments/assets/931575d6-3597-4138-ac3e-c51c4d40bd9b
